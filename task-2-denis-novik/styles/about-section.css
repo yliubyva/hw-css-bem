@@ -1,0 +1,8 @@
+
+.about-section__description {
+    padding-bottom: 30px;
+}
+
+.about-section__description:last-child {
+    padding-bottom: 0;
+}

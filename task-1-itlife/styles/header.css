@@ -1,0 +1,11 @@
+.header {
+    border-bottom: 1px solid rgba(189, 189, 189, 1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }

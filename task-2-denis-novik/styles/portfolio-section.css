@@ -1,0 +1,17 @@
+.portfolio-section__link {
+    display: block;
+    color: #070707;
+    text-align: center;
+}
+
+.portfolio-section__container-portfolio {
+    padding-bottom: 70px;
+}
+
+.portfolio-section__container-portfolio:last-child {
+    padding-bottom: 0;
+}
+
+.portfolio-section__img {
+    padding-bottom: 50px;
+}

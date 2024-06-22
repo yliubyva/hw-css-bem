@@ -1,0 +1,21 @@
+.navigation__list {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.navigation__link {
+    color: #828282;
+}
+
+.navigation__list-item {
+    padding-right: 40px;
+}
+
+.navigation__list-item:last-child {
+    padding-right: 0;
+}
+
+.navigation__link:hover {
+    color: #070707;
+    font-weight: 500;
+}
