@@ -5,7 +5,8 @@
 @import url(styles/navigation.css);
 @import url(styles/buttons.css);
 @import url(styles/main.css);
-@import url(styles/section.css);
 @import url(styles/hero.css);
 @import url(styles/footer.css);
-@import url(styles/hover.css);
+@import url(styles/item.css);
+@import url(styles/box.css);
+@import url(styles/icon.css);

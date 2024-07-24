@@ -1,4 +1,9 @@
 .hero {
+    /* margin: 150px 0; */
+    padding: 150px 0;
+}
+
+.hero {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -28,24 +33,9 @@
     margin-bottom: 60px;
 }
 
-.hero-team-list {
+.hero__list {
     display: flex;
     justify-content: space-between;
     gap: 30px;
-}
-
-.hero-team-list__item--name {
-    padding-top: 19px;
-    color: rgba(40, 37, 40, 1);
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 21.6px;
-}
-
-.hero-team-list__item--role {
-    color: rgba(100, 100, 100, 1);
-    font-size: 18px;
-    font-weight: 300;
-    line-height: 21.6px;
 }
 
