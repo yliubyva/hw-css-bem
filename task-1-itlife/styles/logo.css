@@ -1,0 +1,9 @@
+.logo {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.logo-img {
+    max-width: 170px;
+    height: auto;
+}

@@ -1,0 +1,17 @@
+.hero__title {
+    padding-top: 12px;
+    padding-bottom: 50px;
+
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 65px;
+
+    border-top: solid;
+    border-color: #828282;
+}
+
+.hero__img {
+    display: block;
+    margin: 0;
+    width: 100%;
+}

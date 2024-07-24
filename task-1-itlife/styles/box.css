@@ -1,0 +1,29 @@
+.box {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    background-color: rgba(24, 181, 220, 1);
+}
+
+.box__list {
+    display: inline-flex;
+    justify-content: space-between;
+    gap: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.box__item {
+    width: 42px;
+    height: 42px;
+    background-color: rgba(93, 203, 230, 1);
+    padding: 11px;
+}

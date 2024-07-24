@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 28px;
+
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.footer__list {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}

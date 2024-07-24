@@ -1,0 +1,24 @@
+.item__img {
+    position: relative;
+    width: 100%;
+}
+
+.item__img:hover .item__box {
+    opacity: 1;
+}
+
+
+.item__description--name {
+    padding-top: 19px;
+    color: rgba(40, 37, 40, 1);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.6px;
+}
+
+.item__description--role {
+    color: rgba(100, 100, 100, 1);
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 21.6px;
+}

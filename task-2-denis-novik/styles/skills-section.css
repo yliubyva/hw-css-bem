@@ -1,0 +1,22 @@
+.skills-section__title {
+    padding-bottom: 20px;
+}
+
+.skills-section__paragraph {
+    padding-bottom: 50px;
+}
+
+.skills-section__list-item {
+    list-style: none;
+    display: inline-block;
+
+    padding-right: 90px;
+}
+
+.skills-section__list {
+    width: 100%;
+}
+
+.skills-section__list-item:last-child {
+    padding-right: 0;
+}
